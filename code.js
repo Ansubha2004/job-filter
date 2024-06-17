@@ -94,11 +94,8 @@ const filterfunc=()=>{
                 }
                 if(c==arr.length)
                     str.parentElement.setAttribute("style","");
-                else{
+                else
                 str.parentElement.setAttribute("style","display:none");
-                if(c==0)
-                    
-                }
                  }
         }
         
